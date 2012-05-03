@@ -16,10 +16,17 @@ you can download 'Python 2.7.3' windows installer from [http://www.python.org/do
 Put 'arrangement.py', 'win.bat', 'win_test.bat' to 'Camera Uploads' directory.
 
 ```
+<<<<<<< HEAD
 Camera Uploads/
 ├── arrangement.py
 ├── win.bat
 └── win_test.bat
+=======
+Camera Uploads/  
+├── arrangement.py  
+├── win.bat  
+└── win_test.bat  
+>>>>>>> ebc4b808af7a38fb4bed2058c7271c8022850338
 ```
 
 #### For Mac Users
@@ -27,9 +34,15 @@ Camera Uploads/
 Put 'arrangement.py', 'mac.command', 'mac_test.command' to 'Camera Uploads' directory.
 
 ```
+<<<<<<< HEAD
 Camera Uploads/
 ├── arrangement.py
 ├── mac.command
+=======
+Camera Uploads/  
+├── arrangement.py  
+├── mac.command  
+>>>>>>> ebc4b808af7a38fb4bed2058c7271c8022850338
 └── mac_test.command
 ```
 
