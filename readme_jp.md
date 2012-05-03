@@ -17,17 +17,10 @@ Pythonのバージョンは**2.7.x(2012/5/3時点だと2.7.3)**を選択して�
 'arrangement.py', 'win.bat', 'win_test.bat' を下図のように、Camera Uploadsフォルダ直下に配置します。
 
 ```
-<<<<<<< HEAD
 Camera Uploads/
 ├── arrangement.py
 ├── win.bat
 └── win_test.bat
-=======
-Camera Uploads  
-├── arrangement.py  
-├── win.bat  
-└── win_test.bat  
->>>>>>> ebc4b808af7a38fb4bed2058c7271c8022850338
 ```
 
 #### Macの方
@@ -35,17 +28,10 @@ Camera Uploads
 'arrangement.py', 'mac.command', 'mac_test.command' を下図のようにCamera Uploadsフォルダ直下に配置します。
 
 ```
-<<<<<<< HEAD
 Camera Uploads/
 ├── arrangement.py
 ├── mac.command
 └── mac_test.command
-=======
-Camera Uploads  
-├── arrangement.py  
-├── mac.command  
-└── mac_test.command  
->>>>>>> ebc4b808af7a38fb4bed2058c7271c8022850338
 ```
 
 #### テストスクリプトを動かそう
