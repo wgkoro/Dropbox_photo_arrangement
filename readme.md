@@ -1,6 +1,9 @@
 ## This script helps to arrange photos in Dropbox/Camera Uploads
 
-This script replaces photos in Dropbox like 'Dropbox/Camera Uploads/year/month/day/201x-05-03 xx.xx.xx.jpg'.
+This script replaces photos in Dropbox like 
+- 'Dropbox/Camera Uploads/year/month/day/201x-05-03 xx.xx.xx.jpg'
+- 'Dropbox/Camera Uploads/year/month/day/201x-05-03 xx.xx.xx.mov'
+- 'Dropbox/Camera Uploads/year/month/day/201x-05-03 xx.xx.xx HDR.jpg'
 
 ### Requirement
 
