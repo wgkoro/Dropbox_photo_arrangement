@@ -18,7 +18,7 @@ import shutil
 import traceback
 from optparse import OptionParser
 
-VERSION = '1.0'
+VERSION = '1.1'
 
 class Arrangement:
     def __init__(self):
